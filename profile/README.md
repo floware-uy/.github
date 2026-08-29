@@ -1,4 +1,4 @@
-# 🚀 Floware Software Solutions
+# 🚀 Floware
 
 Bienvenido al perfil oficial de **Floware**, una organización enfocada en la concepción, desarrollo e implementación de soluciones software eficientes, escalables y orientadas al usuario final.
 
@@ -8,8 +8,6 @@ Bienvenido al perfil oficial de **Floware**, una organización enfocada en la co
 
 En **Floware** nos especializamos en el análisis de requerimientos y digitalización de procesos institucionales y empresariales. Nuestro objetivo es transformar necesidades complejas de gestión en interfaces intuitivas, rápidas y accesibles.
 
-Actualmente nos encontramos desarrollando e impulsando soluciones para el sector de la salud pública y privada.
-
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -17,8 +15,8 @@ Actualmente nos encontramos desarrollando e impulsando soluciones para el sector
 Dominamos e integramos tecnologías clave del ecosistema web:
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-* **Backend & Servicios:** PHP, Node.js
-* **Bases de Datos & Modelado:** MySQL, PostgreSQL
+* **Backend & Servicios:** PHP
+* **Bases de Datos & Modelado:** MySQL
 * **Herramientas & Entorno:** Git, GitHub, Vercel
 
 ---
@@ -33,12 +31,8 @@ Dominamos e integramos tecnologías clave del ecosistema web:
 
 | Nombre | Rol | Perfil GitHub |
 | :--- | :--- | :--- |
-| **Leonardo** | Lead Developer / Frontend | [@flowareuy](https://github.com/flowareuy) |
-| **Serena Casé** | Developer | — |
-| **Damián Pallero** | Developer | — |
+| **Ryan Amaro** | Coordinador / Frontend | — |
+| **Faustino Peña** | Subcoordinador | — |
+| **Leonardo González** | Desarrollador | [@legodev](https://github.com/legodev) |
 
----
 
-<div align="center">
-  <sub>Desarrollado con dedicación para proyectos institucionales de evaluación técnica.</sub>
-</div>
