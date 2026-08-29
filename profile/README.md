@@ -1,38 +1,39 @@
 # 🚀 Floware
 
-Bienvenido al perfil oficial de **Floware**, una organización enfocada en la concepción, desarrollo e implementación de soluciones software eficientes, escalables y orientadas al usuario final.
+Bienvenido al perfil oficial de **Floware** en GitHub. Somos un equipo de desarrollo enfocado en la concepción, maquetación e implementación de soluciones software eficientes, escalables y orientadas a la accesibilidad universal.
 
 ---
 
-## 📩 Sobre Nosotros
+## 🏢 Sobre Nosotros
 
-En **Floware** nos especializamos en el análisis de requerimientos y digitalización de procesos institucionales y empresariales. Nuestro objetivo es transformar necesidades complejas de gestión en interfaces intuitivas, rápidas y accesibles.
+En **Floware** nos especializamos en el análisis de requerimientos y la digitalización de procesos institucionales y empresariales. Desarrollamos soluciones por módulos: desde interfaces públicas de libre acceso para la comunidad hasta sistemas internos para la optimización de procesos administrativos.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-Dominamos e integramos tecnologías clave del ecosistema web:
+Estructuramos nuestras soluciones integrando tecnologías clave del ecosistema web:
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-* **Backend & Servicios:** PHP
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla ES6+)
+* **Backend:** PHP
 * **Bases de Datos & Modelado:** MySQL
-* **Herramientas & Entorno:** Git, GitHub, Vercel
+* **Control de Versiones & Despliegue:** Git, GitHub, Vercel
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Proyectos Institucionales
 
-* 🏥 **[Sistema de Gestión Médica / Hospital de Clínicas](./)**: Solución web orientada a la optimización de la agenda de consultas, registro de pacientes y administración de historias clínicas.
+### 🏥 Hospital de Clínicas — Solución Modular de Salud
+
+* 🟢 **[Portal Informativo de Salud](https://github.com/floware-uy/portal-informativo)** *(En Desarrollo)*: Aplicación web pública de libre acceso (vía QR/URL) orientada a la difusión de guías médicas, recomendaciones de salud y prevención para pacientes y visitantes.
+* 🟡 **Sistema Interno de Gestión de Usuarios** *(Planificado / Próxima Fase)*: Módulo administrativo de intranet diseñado para la gestión privada de usuarios, administración de contenidos y control de agenda hospitalaria.
 
 ---
 
 ## 👥 Equipo de Desarrollo
 
-| Nombre | Rol | Perfil GitHub |
+| Nombre | Rol Institucional / Técnico | Perfil GitHub |
 | :--- | :--- | :--- |
-| **Ryan Amaro** | Coordinador / Frontend | — |
-| **Faustino Peña** | Subcoordinador | — |
-| **Leonardo González** | Desarrollador | [@legodev](https://github.com/legodev) |
-
-
+| **Ryan Amaro** | Coordinador de Proyecto / Desarrollador | — |
+| **Faustino Peña** | Subcoordinador / Desarrollador | — |
+| **Leonardo González** | Lead Developer / Desarrollador | [@floware-uy](https://github.com/legodev) |
