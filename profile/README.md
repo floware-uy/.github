@@ -36,4 +36,4 @@ Estructuramos nuestras soluciones integrando tecnologías clave del ecosistema w
 | :--- | :--- | :--- |
 | **Ryan Amaro** | Coordinador de Proyecto / Desarrollador | — |
 | **Faustino Peña** | Subcoordinador / Desarrollador | — |
-| **Leonardo González** | Lead Developer / Desarrollador | [@floware-uy](https://github.com/legodev) |
+| **Leonardo González** | Lead Developer / Desarrollador | [@legodev](https://github.com/legodev) |
