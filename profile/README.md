@@ -4,7 +4,7 @@ Bienvenido al perfil oficial de **Floware**, una organización enfocada en la co
 
 ---
 
-## 🏢 Sobre Nosotros
+## 📩 Sobre Nosotros
 
 En **Floware** nos especializamos en el análisis de requerimientos y digitalización de procesos institucionales y empresariales. Nuestro objetivo es transformar necesidades complejas de gestión en interfaces intuitivas, rápidas y accesibles.
 
